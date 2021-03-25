@@ -1,0 +1,11 @@
+secrets.py
+
+__pycache__
+
+*.*~
+
+*.pyc
+
+.idea
+
+.mypy_cache
