@@ -1,8 +1,10 @@
-secrets.py
+dev_secrets.py
 
 __pycache__
 
 *.*~
+
+.vscode
 
 *.pyc
 
